@@ -1,0 +1,45 @@
+page-home {
+  .page-bg
+  {
+    background-color: #000000;
+    background-image: url("../assets/img/person.png");
+    background-repeat:no-repeat;
+    background-position: center center;
+    background-size: 100% auto;
+}
+  .largeicon
+    {
+      font-size: 50px;
+    }
+    .box
+    {
+      text-align: center;
+      margin-bottom: 10px;
+      padding: 5px;
+    }
+    .vcenter
+    {
+      padding-top: 40%;
+    }
+
+    .bgor
+    {
+      color: #fff;
+      background-color: #c46c00;
+      border-radius: 5px;
+    }
+    p
+    {
+      color: #fff;
+      text-align:center;
+    }
+    .white
+    {
+      color: white;
+    }
+    .hor-center
+    {
+      text-align: center;
+    }
+
+}

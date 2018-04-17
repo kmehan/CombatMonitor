@@ -1,0 +1,26 @@
+page-statistics {
+  .page-bg
+  {
+    background-color: #000;
+  }
+  .largeicon
+    {
+      font-size: 90px;
+    }
+    scroll-content {
+            background-color: map-get($colors, light);
+        }
+
+        ion-card-header {
+            font-weight: bold;
+        }
+        ion-card
+        {
+          background-color: #000;
+        }
+        .toolbar-background
+        {
+          background-color: #ffa500;
+        }
+
+}
