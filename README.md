@@ -3,7 +3,7 @@
 
 This app was developed on Ionic/Cordova using the Ionic [Super Starter Template](https://github.com/ionic-team/ionic-starter-super) as the base. The purpose of the application was to connect to a health tracker that returned HR data and the velocity of limb movements, for combat scenarios. The app provides a Bluetooth service that connect to a Bluetooth transmitter (in this case the BLE-112A) to receive pre-formatted serial data that it then parses and stores.
 
-![enter image description here](smp-screen.png)
+![enter image description here](smp-screen_iphone7plusspacegrey_portrait.png)
 
 # Hardware
 
